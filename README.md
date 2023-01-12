@@ -8,7 +8,7 @@
  
 ## View live App
 
-Hosted at **https://bhejo.herokuapp.com/home**
+Hosted at **https://concerned-gray-reindeer.cyclic.app/**
  
 ## User Permissions
 
